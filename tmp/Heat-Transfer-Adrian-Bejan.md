@@ -1,0 +1,50 @@
+
+ 
+**Adrian Bejan** is a Romanian-American professor who has made contributions to modern thermodynamics and developed his constructal law. He is J. A. Jones Distinguished Professor of Mechanical Engineering at Duke University[1][2] and author of the books *Design in Nature*,[3] *The Physics of Life* [4]*, Freedom and Evolution* [5] and *Time And Beauty*.[6] He is a Fellow of the American Society of Mechanical Engineers and was awarded the Benjamin Franklin Medal.
+ 
+**DOWNLOAD ····· [https://zoohogonka.blogspot.com/?file=2A0SUQ](https://zoohogonka.blogspot.com/?file=2A0SUQ)**
+
+
+ 
+At age 19 Bejan won a scholarship to the United States and entered Massachusetts Institute of Technology in Cambridge, Massachusetts.[7] In 1972 he was awarded BS and MS degrees as a member of the Honors Course in Mechanical Engineering.[2][7] He graduated in 1975 with a PhD from MIT with a thesis titled "Improved thermal design of the cryogenic cooling system for a superconducting synchronous generator". His advisor was Joseph L. Smith Jr.[9], a discipline of Prof. Joseph H. Keenan.
+ 
+From 1976 to 1978 Bejan was a Miller research fellow in at the University of California Berkeley working with Chang-Lin Tien.[7] In 1978 he moved to Colorado and joined the faculty of the Department of Mechanical Engineering at the University of Colorado in Boulder.[10] In 1982 Bejan published his first book, *Entropy Generation Through Heat and Fluid Flow*. The book is aimed at practical applications of the second law of thermodynamics, and presented his ideas on irreversibility, availability and exergy analysis in a form for engineers.[7] In 1984 he published the first edition of *Convection Heat Transfer'*. In an era when researchers did heat transfer calculations using numerical methods on supercomputers, the book emphasized new research methods such as intersection of asymptotes, heatlines, and scale analysis to solve problems.[7]
+ 
+Bejan was appointed full professor at Duke University in 1984.[10] In 1988 he published the first edition of his textbook *Advanced Engineering Thermodynamics*. The book combined thermodynamics theory with engineering heat transfer and fluid mechanics, and introduced entropy generation minimization as a method of optimization.[7] In 1996 the ASME awarded him the Worcester Reed Warner Medal for "originality, challenges to orthodoxy, and impact on thermodynamics and heat transfer, which were made through his first three books".[11]
+
+In 1989 Bejan was appointed the J. A. Jones Distinguished Professor of Mechanical Engineering. In 1988 and 1989, his peers named two dimensionless groups *Bejan number (Be),* in two different fields: for the pressure difference group, in heat transfer by forced convection, and for the dimensionless ratio of fluid friction irreversibility divided by heat transfer irreversibility, in thermodynamics.[2] From 1992 to 1996 he published four more books, *Convection in Porous Media*, *Heat Transfer*, *Thermal Design and Optimization* and *Entropy Generation Minimization*.[7]
+ 
+In 1995[7] while reviewing entropy generation minimization for a symposium paper and writing another paper on the cooling of electronic components, Bejan formulated the **constructal law**.[12][13] The constructal law is an organizing principle by which natural phenomena as well as human designed systems will evolve in a way that facilitates the flow of energy and material passing through it.[14][15] As an example, for electronic components too small for convective cooling, they must be designed for efficient conduction. The 1995 paper provides a method for efficiently designing conductive paths, from smaller paths leading to larger ones. The similarity of the solution to the branching structures seen in multiple inanimate and living things led to his statement of what he calls a new law of nature: "For a finite-size system to persist in time (to live), it must evolve in such a way that it provides easier access to the imposed (global) currents that flow through it."[12][13] To emphasize the coming together of paths he called the theory *constructal* from the Latin verb "to construct", the opposite time direction of *fractal* from the Latin "to break".[12][13]
+ 
+Bejan incorporated his constructal law into the second edition of his textbook, *Advanced Engineering Thermodynamics* (1997).[7] He continued thermodynamics and its constructal law and implications.[7] In 2004, he published *Porous and Complex Flow Structures in Modern Technologies*.[7] The same year, he and Sylvie Lorente were awarded the Edward F. Obert Award by the ASME for their paper "Thermodynamic Formulation of the Constructal Law"[2] In 2008 he published *Design with Constructal Theory*.[16]
+ 
+In 2011 the American Society of Mechanical Engineers presented him with an honorary membership. He was cited for "an extraordinary record of creative work, including the unification of thermodynamics and heat transfer; the conceptual development of design as a science that unites all fields; legendary contributions to engineering education; and, since 1996, the discovery and continued development of the constructal law."[10]
+ 
+In November 2017 the Franklin Institute of Philadelphia announced that Bejan would be awarded the 2018 Benjamin Franklin Medal in Mechanical Engineering.[19] He was cited for "his pioneering interdisciplinary contributions in thermodynamics and convection heat transfer that have improved the performance of engineering systems, and for constructal theory, which predicts natural design and its evolution in engineering, scientific, and social systems."[20]
+ 
+A revised edition of the industry classic, *Convection Heat Transfer, Fourth Edition,* chronicles how the field of heat transfer has grown and prospered over the last two decades. This new edition is more accessible, while not sacrificing its thorough treatment of the most up-to-date information on current research and applications in the field.
+ 
+One of the foremost leaders in the field, Adrian Bejan has pioneered and taught many of the methods and practices commonly used in the industry today. He continues this book's long-standing role as an inspiring, optimal study tool by providing:
+ 
+Complete with hundreds of informative and original illustrations, *Convection Heat Transfer, Fourth Edition* is the most comprehensive and approachable text for students in schools of mechanical engineering.
+ 
+**ADRIAN BEJAN, PhD**, is the J. A. Jones Professor of Mechanical Engineering at Duke University. An internationally recognized authority on heat transfer and thermodynamics, Bejan has pioneered the methods of entropy generation minimization, scale analysis, heatlines and masslines, intersection of asymptotes, dendritic architectures, and the constructal law of design in nature. He is the recipient of numerous awards, including the Max Jakob Memorial Award (ASME & AICHE), the Worcester Reed Warner Medal (ASME), and the Ralph Coats Roe Award (ASEE). He is the author of twenty-five books and 550 journal articles, and is listed among the 100 most-cited engineering researchers (all disciplines, all countries). He has been awarded sixteen honorary doctorates by universities in eleven foreign countries.
+ 
+Watching physicist Adrian Bejan as he demonstrates how snowflakes form tells you two things. One, he's not just a scientist. The confidence and balance he projects as he draws are a give-away to his training as an artist and as an athlete. And two, that there is a certain predictability to each snowflake.
+ 
+I've quoted Adrian Bejan numerous times in books and articles about evolution, about 
+academic mafias and peer review, but somehow we never got around to having a full conversation. So I called him recently at Duke University, where he is now J.A. Jones Distinguished Professor of Mechanical Engineering, to chat about both his constructal law of design in nature -- which he considers one of the few laws of physics -- as well as his formative years in the 50s and 60s in communist Romania. Bejan was born in Galati, Romania on the Danube River.
+ 
+Despite growing up in a country where hunger was an ongoing fact of life, Bejan thrived, indeed triumphed. He became both a math champion and star athlete, years before the West knew about Romanian star athletes -- like "perfect" Olympic gymnast Nadia Comaneci.
+ 
+In the interview that follows Bejan defines life as "the flow system that morphs and persists." He says the origin of life on Earth is 100% physics and that it coincides with the origin of Earth itself. He also questions linking of the term "growth" with "evolution" in science. Bejan thinks D'Arcy Thompson's book On Growth and Form was an inspiration for the "mistake."
+ 
+Adrian Bejan's interest in art first evidenced itself during his childhood. He went from drawing high speed motorcycle racing to the human anatomy -- no doubt inspired by his father's work as a veterinarian. Bejan now regards illustration essential to his science, and he attributes the success of his books in part to his drawings.
+ 
+Adrian Bejan is the author or co-author of 28 books, best known is Design in Nature (Doubleday, 2012), and of 600 scientific papers. The Bejan numbers (Be) -- in thermodynamics and in convection -- were named for him 30 years ago. Adrian Bejan has received 18 honorary PhDs from universities in 11 countries.
+ 
+**Adrian Bejan**: Yes, I am of Romanian origin. My family comes from two-centuries-old villages on the lower Danube. The name Bejan is Old Slavonic, it means "a person on the move." It's found everywhere from Poland to the southern tip of Greece.
+ 
+During the Dark Ages, the whole of central and eastern Europe was invaded from the northeast by waves of Slavic land-seeking peasants. They brought a lot of stuff with them, to some places they brought language -- like to Czechoslovakia, Yugoslavia, Poland and Bulgaria. To other places, names.
+ 
+**Adrian Bejan**: It wa
